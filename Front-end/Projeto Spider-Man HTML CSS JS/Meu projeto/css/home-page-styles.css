@@ -12,7 +12,7 @@ body {
 }
 
 .s-menu__item {
-    display: inline-block;
+    display: inline-block; /* Disponibiliza por margins e relacionados a posicionamento*/
     text-transform: uppercase;
     margin: 0 1.25rem;
 
